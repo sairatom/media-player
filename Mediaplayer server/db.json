@@ -1,0 +1,56 @@
+{
+  "allVideos": [
+    {
+      "id": "18",
+      "name": "premam",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXm7JUIJBIqkjkOmdTWoclEGQSj2IZjz_45g&s",
+      "link": "https://www.youtube.com/embed/yjaFvFuQ-QM"
+    },
+    {
+      "id": "17",
+      "name": "Anandham",
+      "url": "https://static.toiimg.com/thumb/msid-63112230,width-1280,height-720,resizemode-4/63112230.jpg",
+      "link": "https://www.youtube.com/embed/yjaFvFuQ-QM"
+    }
+  ],
+  "history": [
+    {
+      "name": "vazha",
+      "link": "https://www.youtube.com/embed/87IzSX3PpuA",
+      "timeStamp": "08/22/2024, 02:36:29 PM",
+      "id": 3
+    },
+    {
+      "name": "banglore days",
+      "link": "https://www.youtube.com/embed/WS4Mev_vRAc",
+      "timeStamp": "08/22/2024, 03:04:45 PM",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "movie",
+      "allVideos": [
+        {
+          "id": "18",
+          "name": "premam",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXm7JUIJBIqkjkOmdTWoclEGQSj2IZjz_45g&s",
+          "link": "https://www.youtube.com/embed/yjaFvFuQ-QM"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "video",
+      "allVideos": [
+        {
+          "id": "17",
+          "name": "Anandham",
+          "url": "https://static.toiimg.com/thumb/msid-63112230,width-1280,height-720,resizemode-4/63112230.jpg",
+          "link": "https://www.youtube.com/embed/yjaFvFuQ-QM"
+        }
+      ]
+    }
+  ]
+}
